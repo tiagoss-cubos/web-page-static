@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  border: 1px solid gray;
+  background-color: #ffffff;
+  font-family: "Inter", sans-serif;
+  max-width: 1440px;
+}
+
+img {
+  cursor: pointer;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  all: unset;
+}
