@@ -16,7 +16,7 @@ Foi utilizado no projeto o layout elaborado pela B8one o qual está disponível 
 
 #### Clique no link abaixo para acessar a página
 
-- [WebPage](https://searchpokedex.netlify.app)
+- [WebPageStatic](b8oneteste.netlify.app)
 
 #### Implementações futuras:
 
