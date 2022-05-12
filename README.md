@@ -16,7 +16,7 @@ Foi utilizado no projeto o layout elaborado pela B8one o qual está disponível 
 
 #### Clique no link abaixo para acessar a página
 
-- [WebPageStatic](b8oneteste.netlify.app)
+- [WebPageStatic](https://b8oneteste.netlify.app)
 
 #### Implementações futuras:
 
